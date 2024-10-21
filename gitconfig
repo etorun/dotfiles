@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = etorun@gmail.com
+	name = Erman Torun
